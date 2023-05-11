@@ -18,14 +18,6 @@ public class Grades {
         int lastMark = size - 1;
         return lastMark;
     }
-    private int averageMark () {
-        int sum = 0;
-        for (int i = 0; i <= 10; i++) {
-            sum = sum + i;
-        }
 
-        double averageMark = sum / size;
-        return averageMark;
-    }
 
 }
