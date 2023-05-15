@@ -8,7 +8,7 @@ public class Person {
 System.out.println(firstName + age +  job);
 
 Person person = new Person();
-person.ResponsibilitiesOfJob();
+
 
     }
     }
